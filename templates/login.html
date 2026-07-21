@@ -1,39 +1,21 @@
 {% extends "base.html" %}
-
-{% block title %}
-Login
-{% endblock %}
-
+{% block title %}Login{% endblock %}
 {% block content %}
+<div class="auth-card">
+    <h1>Welcome Back</h1>
+    <p class="muted">Login to submit and track your complaints.</p>
 
-<div class="form-card">
-
-    <h2>Login</h2>
-
-    <form method="POST">
-
+    <form method="POST" action="{{ url_for('login') }}">
         <label>Email</label>
-
-        <input
-            type="email"
-            name="email"
-            placeholder="Enter your email"
-            required>
+        <input type="email" name="email" required placeholder="you@example.com">
 
         <label>Password</label>
+        <input type="password" name="password" required placeholder="********">
 
-        <input
-            type="password"
-            name="password"
-            placeholder="Enter your password"
-            required>
-
-        <button type="submit">
-            Login
-        </button>
-
+        <button type="submit" class="btn-primary">Login</button>
     </form>
 
+    <p class="muted small">No account? <a href="{{ url_for('register') }}">Register here</a></p>
+    <p class="muted small">Demo admin: admin@cms.local / admin123</p>
 </div>
-
 {% endblock %}

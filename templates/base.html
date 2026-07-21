@@ -1,51 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>{% block title %}AI Complaint Management System{% endblock %}</title>
-
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{% block title %}AI Complaint Management System{% endblock %}</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 <body>
 
-    <!-- Navigation Bar -->
-    <nav>
-        <div class="logo">
-            <h2>AI Complaint Management System</h2>
-        </div>
-
+<nav class="navbar">
+    <div class="nav-inner">
+        <a href="{{ url_for('index') }}" class="brand">
+            <span class="brand-dot"></span> AI Complaint System
+        </a>
         <div class="nav-links">
-            <!-- Logged Out State (Day 2) -->
-            <a href="/login">Login</a>
-            <a href="/register">Register</a>
-
-            <!-- Logged In State (Day 3)
-            <a href="/dashboard">Dashboard</a>
-            <a href="/logout">Logout</a>
-            -->
+            {% if session.get('user_id') %}
+                {% if session.get('role') == 'admin' %}
+                    <a href="{{ url_for('admin_dashboard') }}">Admin Panel</a>
+                {% else %}
+                    <a href="{{ url_for('dashboard') }}">Dashboard</a>
+                    <a href="{{ url_for('submit_complaint') }}">Submit Complaint</a>
+                {% endif %}
+                <span class="nav-user">{{ session.get('name') }}</span>
+                <a href="{{ url_for('logout') }}" class="btn-nav">Logout</a>
+            {% else %}
+                <a href="{{ url_for('login') }}">Login</a>
+                <a href="{{ url_for('register') }}" class="btn-nav">Register</a>
+            {% endif %}
         </div>
-    </nav>
+    </div>
+</nav>
 
-    <!-- Flash Messages -->
-    {% with messages = get_flashed_messages() %}
+<main class="container">
+    {% with messages = get_flashed_messages(with_categories=true) %}
         {% if messages %}
-            <div class="flash-container">
-                {% for message in messages %}
-                    <div class="flash-message">
-                        {{ message }}
-                    </div>
-                {% endfor %}
+            <div class="flash-wrap">
+            {% for category, message in messages %}
+                <div class="flash flash-{{ category }}">{{ message }}</div>
+            {% endfor %}
             </div>
         {% endif %}
     {% endwith %}
 
-    <!-- Page Content -->
-    <div class="container">
-        {% block content %}
-        {% endblock %}
-    </div>
+    {% block content %}{% endblock %}
+</main>
+
+<footer class="footer">
+    <p>AI Complaint Management System &mdash; Final Year Project</p>
+</footer>
 
 </body>
 </html>
