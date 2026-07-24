@@ -1,0 +1,13 @@
+Day 4 - Model Training Results
+
+Category Model Accuracy:
+1.0000 (100%)
+
+Priority Model Accuracy:
+0.5052 (50.52%)
+
+Department Model Accuracy:
+1.0000 (100%)
+
+Reason:
+Priority prediction is usually less accurate than category prediction because the urgency of a complaint depends on more than just the words used in the complaint. The same complaint may be assigned different priority levels depending on the situation, so it is harder for the model to predict accurately.

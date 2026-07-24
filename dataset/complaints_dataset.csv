@@ -1,0 +1,961 @@
+complaint_text,category,priority,department
+HR is not responding to my resignation email,HR,High,HR
+Scanner in Sports Complex is out of order,Hardware,Low,IT
+Mobile app crashes when I open course registration section,Software,Medium,Development
+Result of course registration not uploaded on portal,Academic,High,Academic Office
+Mess food quality complaint for Library,Hostel,Medium,Hostel Office
+Parking issue near Library,Administration,Low,Admin Office
+Appointment letter not issued yet,HR,High,HR
+Security guard misbehavior reported near Cafeteria,Administration,Low,Admin Office
+Scanner in Lab 1 is out of order,Hardware,Low,IT
+WiFi signal is very weak near Computer Lab,Network,Medium,IT
+Refund request for transcript not processed,Finance,High,Accounts
+Network is extremely slow in Lab 1,Network,High,IT
+Network is extremely slow in Seminar Hall,Network,Medium,IT
+Cleanliness issue in Girls Hostel,Administration,Low,Admin Office
+Water is not available in hostel Admin Block,Hostel,High,Hostel Office
+Attendance shortage error for thesis document course,Academic,High,Academic Office
+Unable to upload leave application on the student portal,Software,Medium,Development
+Hostel WiFi not working in room D-109,Hostel,High,Hostel Office
+Incorrect GPA shown for semester 5th,Academic,Medium,Academic Office
+Leave request not approved since October,HR,Medium,HR
+Student portal is down and I cannot login,Software,High,Development
+Monitor in Girls Hostel has a black screen,Hardware,Medium,IT
+Electricity issue in hostel room D-108,Hostel,Low,Hostel Office
+WiFi signal is very weak near Admin Block,Network,Medium,IT
+Electricity issue in hostel room A-110,Hostel,High,Hostel Office
+HR is not responding to my resignation email,HR,Medium,HR
+Mobile app crashes when I open assignment section,Software,High,Development
+WiFi signal is very weak near Sports Complex,Network,Medium,IT
+Result of result card not uploaded on portal,Academic,High,Academic Office
+Incorrect GPA shown for semester 3rd,Academic,High,Academic Office
+Scholarship amount not credited for February,Finance,Medium,Accounts
+Course registration issue for profile picture,Academic,Medium,Academic Office
+Fee already paid but portal shows result card pending,Finance,Medium,Accounts
+Scanner in Library is out of order,Hardware,Low,IT
+Scholarship amount not credited for December,Finance,High,Accounts
+Hostel WiFi not working in room B-105,Hostel,Low,Hostel Office
+Monitor in Auditorium has a black screen,Hardware,Medium,IT
+Network is extremely slow in Sports Complex,Network,Medium,IT
+HR is not responding to my resignation email,HR,High,HR
+Refund request for result card not processed,Finance,High,Accounts
+Projector in Seminar Hall is not turning on,Hardware,Low,IT
+Duplicate fee charged for attendance sheet,Finance,High,Accounts
+Fee voucher is showing incorrect amount,Finance,High,Accounts
+Appointment letter not issued yet,HR,Medium,HR
+WiFi signal is very weak near Auditorium,Network,High,IT
+Electricity issue in hostel room A-118,Hostel,Medium,Hostel Office
+Electricity issue in hostel room D-114,Hostel,Medium,Hostel Office
+Mobile app crashes when I open attendance sheet section,Software,High,Development
+WiFi signal is very weak near Lab 2,Network,Medium,IT
+Keyboard in Lab 3 lab is broken,Hardware,Low,IT
+Mobile app crashes when I open attendance sheet section,Software,High,Development
+Cleanliness issue in Lab 2,Administration,Low,Admin Office
+Appointment letter not issued yet,HR,High,HR
+Projector in Cafeteria is not turning on,Hardware,Low,IT
+Cleanliness issue in Lab 1,Administration,Low,Admin Office
+Projector in Cafeteria is not turning on,Hardware,Low,IT
+Fee voucher is showing incorrect amount,Finance,High,Accounts
+WiFi is not working in Lab 2,Network,Medium,IT
+Security guard misbehavior reported near Admin Block,Administration,Medium,Admin Office
+Portal is showing incorrect assignment details,Software,High,Development
+Security guard misbehavior reported near Library,Administration,Medium,Admin Office
+Result of profile picture not uploaded on portal,Academic,High,Academic Office
+Monitor in Boys Hostel has a black screen,Hardware,Low,IT
+Keyboard in Main Block lab is broken,Hardware,Low,IT
+Printer in Computer Lab is not printing,Hardware,Low,IT
+Electricity issue in hostel room A-108,Hostel,Medium,Hostel Office
+Incorrect deduction shown in December salary slip,HR,Medium,HR
+Fee voucher is showing incorrect amount,Finance,Medium,Accounts
+Projector in Library is not turning on,Hardware,Low,IT
+Hostel room A-112 AC is not working,Hostel,Low,Hostel Office
+No response from admin office regarding assignment,Administration,Medium,Admin Office
+Parking issue near Auditorium,Administration,Medium,Admin Office
+Fee already paid but portal shows thesis document pending,Finance,High,Accounts
+Student portal is down and I cannot login,Software,High,Development
+Hostel WiFi not working in room C-110,Hostel,Low,Hostel Office
+Printer in Girls Hostel is not printing,Hardware,Medium,IT
+Portal shows error 500 when submitting profile picture,Software,High,Development
+Electricity issue in hostel room D-116,Hostel,Medium,Hostel Office
+Hostel WiFi not working in room C-113,Hostel,Low,Hostel Office
+Security guard misbehavior reported near Boys Hostel,Administration,Medium,Admin Office
+Student portal is down and I cannot login,Software,Medium,Development
+Water is not available in hostel Lab 2,Hostel,High,Hostel Office
+Exam datesheet clash between leave application and Operating Systems,Academic,Medium,Academic Office
+Transcript request pending since April,Academic,High,Academic Office
+Fee already paid but portal shows course registration pending,Finance,High,Accounts
+Fee already paid but portal shows result card pending,Finance,Medium,Accounts
+Washroom in hostel Lab 2 needs urgent repair,Hostel,Low,Hostel Office
+Transcript request pending since August,Academic,Medium,Academic Office
+LAN cable in Computer Lab is not working,Network,Medium,IT
+Fee already paid but portal shows result card pending,Finance,High,Accounts
+Incorrect deduction shown in August salary slip,HR,High,HR
+Mobile app crashes when I open attendance sheet section,Software,Medium,Development
+Portal is showing incorrect transcript details,Software,High,Development
+Hostel room C-111 AC is not working,Hostel,Low,Hostel Office
+Scholarship amount not credited for November,Finance,High,Accounts
+LAN cable in Library is not working,Network,Low,IT
+Projector in Lab 2 is not turning on,Hardware,Medium,IT
+Mobile app crashes when I open internship report section,Software,High,Development
+Network is extremely slow in Library,Network,High,IT
+Leave request not approved since May,HR,High,HR
+Hostel WiFi not working in room C-103,Hostel,Medium,Hostel Office
+Refund request for internship report not processed,Finance,High,Accounts
+Noise complaint from Admin Block during exams,Administration,Low,Admin Office
+Attendance shortage error for transcript course,Academic,High,Academic Office
+Exam datesheet clash between internship report and Operating Systems,Academic,High,Academic Office
+Attendance shortage error for attendance sheet course,Academic,Medium,Academic Office
+Hostel room A-101 AC is not working,Hostel,High,Hostel Office
+Monitor in Boys Hostel has a black screen,Hardware,Low,IT
+Printer in Library is not printing,Hardware,Medium,IT
+Incorrect GPA shown for semester 3rd,Academic,High,Academic Office
+Leave request not approved since May,HR,High,HR
+Student portal is down and I cannot login,Software,Medium,Development
+No response from admin office regarding fee challan,Administration,Medium,Admin Office
+Parking issue near Reading Room,Administration,Low,Admin Office
+Scholarship amount not credited for July,Finance,High,Accounts
+Unable to upload fee challan on the student portal,Software,Medium,Development
+Mobile app crashes when I open course registration section,Software,Medium,Development
+WiFi is not working in Main Block,Network,Medium,IT
+WiFi signal is very weak near Main Block,Network,High,IT
+Student portal is down and I cannot login,Software,Medium,Development
+Scholarship amount not credited for March,Finance,High,Accounts
+ID card not issued after December,Administration,Low,Admin Office
+WiFi is not working in Boys Hostel,Network,Low,IT
+Internet connection keeps disconnecting in Library,Network,Medium,IT
+Bank transaction failed but amount deducted for leave application,Finance,Medium,Accounts
+Keyboard in Lab 1 lab is broken,Hardware,Low,IT
+Hostel WiFi not working in room B-118,Hostel,High,Hostel Office
+Washroom in hostel Seminar Hall needs urgent repair,Hostel,Medium,Hostel Office
+Computer in Seminar Hall is not booting up,Hardware,Medium,IT
+Refund request for leave application not processed,Finance,High,Accounts
+Duplicate fee charged for result card,Finance,High,Accounts
+Bank transaction failed but amount deducted for result card,Finance,High,Accounts
+Course registration issue for assignment,Academic,High,Academic Office
+WiFi is not working in Main Block,Network,High,IT
+Scanner in Lab 2 is out of order,Hardware,Low,IT
+Appointment letter not issued yet,HR,High,HR
+Refund request for result card not processed,Finance,High,Accounts
+Security guard misbehavior reported near Sports Complex,Administration,Low,Admin Office
+Hostel room B-113 AC is not working,Hostel,Low,Hostel Office
+Provident fund details are missing for October,HR,Medium,HR
+Mess food quality complaint for Main Block,Hostel,High,Hostel Office
+Mobile app crashes when I open course registration section,Software,Medium,Development
+Bank transaction failed but amount deducted for fee challan,Finance,High,Accounts
+Water is not available in hostel Main Block,Hostel,Low,Hostel Office
+Login page of the portal is not loading,Software,Medium,Development
+Appointment letter not issued yet,HR,Medium,HR
+Student portal is down and I cannot login,Software,High,Development
+Unable to upload transcript on the student portal,Software,High,Development
+WiFi signal is very weak near Library,Network,High,IT
+Cleanliness issue in Lab 2,Administration,Low,Admin Office
+Mess food quality complaint for Boys Hostel,Hostel,Low,Hostel Office
+Electricity issue in hostel room A-101,Hostel,Low,Hostel Office
+Noise complaint from Girls Hostel during exams,Administration,Low,Admin Office
+Refund request for profile picture not processed,Finance,Medium,Accounts
+Security guard misbehavior reported near Admin Block,Administration,Low,Admin Office
+Keyboard in Auditorium lab is broken,Hardware,Low,IT
+Appointment letter not issued yet,HR,High,HR
+Fee already paid but portal shows course registration pending,Finance,High,Accounts
+WiFi signal is very weak near Admin Block,Network,Medium,IT
+Washroom in hostel Reading Room needs urgent repair,Hostel,Medium,Hostel Office
+HR is not responding to my resignation email,HR,High,HR
+HR is not responding to my resignation email,HR,High,HR
+Refund request for transcript not processed,Finance,High,Accounts
+Exam datesheet clash between course registration and Data Structures,Academic,Medium,Academic Office
+Noise complaint from Seminar Hall during exams,Administration,Medium,Admin Office
+WiFi is not working in Lab 2,Network,Medium,IT
+Water is not available in hostel Lab 3,Hostel,High,Hostel Office
+Result of profile picture not uploaded on portal,Academic,High,Academic Office
+Electricity issue in hostel room B-103,Hostel,Medium,Hostel Office
+Unable to connect to the campus WiFi from Admin Block,Network,High,IT
+Attendance shortage error for transcript course,Academic,High,Academic Office
+Salary not received for the month of October,HR,High,HR
+Incorrect GPA shown for semester 7th,Academic,Medium,Academic Office
+Water is not available in hostel Girls Hostel,Hostel,Medium,Hostel Office
+Scanner in Seminar Hall is out of order,Hardware,Medium,IT
+Student portal is down and I cannot login,Software,High,Development
+Portal shows error 500 when submitting leave application,Software,Medium,Development
+Portal shows error 500 when submitting thesis document,Software,Medium,Development
+Scholarship amount not credited for December,Finance,Medium,Accounts
+Provident fund details are missing for March,HR,High,HR
+Projector in Auditorium is not turning on,Hardware,Low,IT
+Appointment letter not issued yet,HR,High,HR
+Portal shows error 500 when submitting leave application,Software,High,Development
+Scholarship amount not credited for August,Finance,Medium,Accounts
+Monitor in Boys Hostel has a black screen,Hardware,Low,IT
+Hostel WiFi not working in room A-106,Hostel,High,Hostel Office
+Monitor in Admin Block has a black screen,Hardware,Low,IT
+Security guard misbehavior reported near Sports Complex,Administration,Low,Admin Office
+Washroom in hostel Seminar Hall needs urgent repair,Hostel,High,Hostel Office
+Monitor in Lab 3 has a black screen,Hardware,Low,IT
+Student portal is down and I cannot login,Software,High,Development
+Hostel room C-105 AC is not working,Hostel,Low,Hostel Office
+Attendance shortage error for transcript course,Academic,Medium,Academic Office
+Scanner in Seminar Hall is out of order,Hardware,Low,IT
+Provident fund details are missing for August,HR,Medium,HR
+Unable to connect to the campus WiFi from Seminar Hall,Network,Medium,IT
+Electricity issue in hostel room D-114,Hostel,Medium,Hostel Office
+Leave request not approved since July,HR,High,HR
+WiFi signal is very weak near Lab 2,Network,Medium,IT
+Incorrect deduction shown in July salary slip,HR,High,HR
+Leave request not approved since February,HR,High,HR
+Unable to upload assignment on the student portal,Software,Medium,Development
+Course registration issue for leave application,Academic,Medium,Academic Office
+Fee voucher is showing incorrect amount,Finance,High,Accounts
+Monitor in Girls Hostel has a black screen,Hardware,Low,IT
+Portal is showing incorrect fee challan details,Software,Medium,Development
+Printer in Auditorium is not printing,Hardware,Low,IT
+Provident fund details are missing for December,HR,High,HR
+Hostel WiFi not working in room A-110,Hostel,Medium,Hostel Office
+Bank transaction failed but amount deducted for internship report,Finance,High,Accounts
+Duplicate fee charged for leave application,Finance,Medium,Accounts
+Mobile app crashes when I open transcript section,Software,Medium,Development
+Salary not received for the month of June,HR,Medium,HR
+Attendance shortage error for transcript course,Academic,Medium,Academic Office
+Cleanliness issue in Sports Complex,Administration,Low,Admin Office
+Water is not available in hostel Library,Hostel,Medium,Hostel Office
+Computer in Boys Hostel is not booting up,Hardware,Low,IT
+Cleanliness issue in Seminar Hall,Administration,Low,Admin Office
+Incorrect GPA shown for semester 4th,Academic,High,Academic Office
+Student portal is down and I cannot login,Software,High,Development
+Incorrect deduction shown in May salary slip,HR,Medium,HR
+Course registration issue for internship report,Academic,Medium,Academic Office
+Projector in Auditorium is not turning on,Hardware,Medium,IT
+Scholarship amount not credited for January,Finance,High,Accounts
+Water is not available in hostel Main Block,Hostel,Medium,Hostel Office
+Monitor in Computer Lab has a black screen,Hardware,Low,IT
+Parking issue near Sports Complex,Administration,Low,Admin Office
+Salary not received for the month of July,HR,High,HR
+Incorrect deduction shown in September salary slip,HR,High,HR
+LAN cable in Auditorium is not working,Network,Medium,IT
+Attendance shortage error for internship report course,Academic,High,Academic Office
+Bank transaction failed but amount deducted for fee challan,Finance,High,Accounts
+LAN cable in Library is not working,Network,Medium,IT
+Incorrect deduction shown in August salary slip,HR,High,HR
+Printer in Lab 3 is not printing,Hardware,Medium,IT
+Bank transaction failed but amount deducted for leave application,Finance,High,Accounts
+Electricity issue in hostel room C-112,Hostel,Low,Hostel Office
+Attendance shortage error for transcript course,Academic,Medium,Academic Office
+WiFi signal is very weak near Auditorium,Network,High,IT
+Unable to connect to the campus WiFi from Sports Complex,Network,Low,IT
+Course registration issue for attendance sheet,Academic,High,Academic Office
+Incorrect GPA shown for semester 5th,Academic,Medium,Academic Office
+ID card not issued after October,Administration,Low,Admin Office
+Course registration issue for assignment,Academic,Medium,Academic Office
+Exam datesheet clash between thesis document and Data Structures,Academic,Medium,Academic Office
+Network is extremely slow in Library,Network,Medium,IT
+Refund request for assignment not processed,Finance,Medium,Accounts
+Fee voucher is showing incorrect amount,Finance,High,Accounts
+Fee already paid but portal shows result card pending,Finance,High,Accounts
+Exam datesheet clash between internship report and Requirement Engineering,Academic,High,Academic Office
+Electricity issue in hostel room B-105,Hostel,Medium,Hostel Office
+Duplicate fee charged for course registration,Finance,Medium,Accounts
+Fee already paid but portal shows result card pending,Finance,High,Accounts
+Duplicate fee charged for fee challan,Finance,Medium,Accounts
+Unable to connect to the campus WiFi from Lab 1,Network,Medium,IT
+Printer in Sports Complex is not printing,Hardware,Medium,IT
+ID card not issued after October,Administration,Medium,Admin Office
+Unable to upload course registration on the student portal,Software,Medium,Development
+Exam datesheet clash between fee challan and Database Systems,Academic,Medium,Academic Office
+Keyboard in Sports Complex lab is broken,Hardware,Low,IT
+Unable to connect to the campus WiFi from Seminar Hall,Network,Medium,IT
+Salary not received for the month of October,HR,High,HR
+Fee voucher is showing incorrect amount,Finance,High,Accounts
+Login page of the portal is not loading,Software,Medium,Development
+Bank transaction failed but amount deducted for transcript,Finance,Medium,Accounts
+Transcript request pending since January,Academic,High,Academic Office
+Incorrect deduction shown in October salary slip,HR,High,HR
+Fee already paid but portal shows internship report pending,Finance,High,Accounts
+WiFi signal is very weak near Sports Complex,Network,Low,IT
+Transcript request pending since September,Academic,High,Academic Office
+Mobile app crashes when I open assignment section,Software,High,Development
+Bank transaction failed but amount deducted for fee challan,Finance,High,Accounts
+Noise complaint from Library during exams,Administration,Low,Admin Office
+Scanner in Seminar Hall is out of order,Hardware,Medium,IT
+Portal is showing incorrect attendance sheet details,Software,Medium,Development
+Monitor in Cafeteria has a black screen,Hardware,Low,IT
+ID card not issued after June,Administration,Low,Admin Office
+Noise complaint from Girls Hostel during exams,Administration,Low,Admin Office
+Computer in Library is not booting up,Hardware,Low,IT
+Fee voucher is showing incorrect amount,Finance,High,Accounts
+Portal is showing incorrect leave application details,Software,High,Development
+Portal is showing incorrect thesis document details,Software,High,Development
+Keyboard in Cafeteria lab is broken,Hardware,Medium,IT
+Refund request for fee challan not processed,Finance,Medium,Accounts
+Mess food quality complaint for Reading Room,Hostel,Medium,Hostel Office
+Salary not received for the month of June,HR,High,HR
+Mobile app crashes when I open result card section,Software,High,Development
+Cleanliness issue in Reading Room,Administration,Low,Admin Office
+Computer in Seminar Hall is not booting up,Hardware,Medium,IT
+WiFi is not working in Main Block,Network,Medium,IT
+Network is extremely slow in Cafeteria,Network,Medium,IT
+Security guard misbehavior reported near Lab 1,Administration,Medium,Admin Office
+Attendance shortage error for transcript course,Academic,High,Academic Office
+Cleanliness issue in Lab 3,Administration,Medium,Admin Office
+Computer in Seminar Hall is not booting up,Hardware,Low,IT
+Security guard misbehavior reported near Girls Hostel,Administration,Medium,Admin Office
+Duplicate fee charged for profile picture,Finance,High,Accounts
+Provident fund details are missing for June,HR,High,HR
+Student portal is down and I cannot login,Software,High,Development
+Projector in Library is not turning on,Hardware,Low,IT
+LAN cable in Computer Lab is not working,Network,Low,IT
+Noise complaint from Sports Complex during exams,Administration,Low,Admin Office
+Mobile app crashes when I open internship report section,Software,Medium,Development
+Bank transaction failed but amount deducted for assignment,Finance,High,Accounts
+Leave request not approved since January,HR,Medium,HR
+Attendance shortage error for internship report course,Academic,High,Academic Office
+Keyboard in Lab 3 lab is broken,Hardware,Low,IT
+WiFi signal is very weak near Boys Hostel,Network,High,IT
+HR is not responding to my resignation email,HR,Medium,HR
+Security guard misbehavior reported near Library,Administration,Low,Admin Office
+Fee voucher is showing incorrect amount,Finance,High,Accounts
+Bank transaction failed but amount deducted for course registration,Finance,Medium,Accounts
+Scanner in Seminar Hall is out of order,Hardware,Low,IT
+Bank transaction failed but amount deducted for assignment,Finance,Medium,Accounts
+Hostel WiFi not working in room A-107,Hostel,Low,Hostel Office
+HR is not responding to my resignation email,HR,High,HR
+Student portal is down and I cannot login,Software,Medium,Development
+WiFi signal is very weak near Cafeteria,Network,Medium,IT
+Unable to connect to the campus WiFi from Auditorium,Network,High,IT
+Attendance shortage error for thesis document course,Academic,High,Academic Office
+Scanner in Lab 2 is out of order,Hardware,Low,IT
+Network is extremely slow in Girls Hostel,Network,Low,IT
+Result of profile picture not uploaded on portal,Academic,High,Academic Office
+Unable to connect to the campus WiFi from Computer Lab,Network,Low,IT
+Hostel room B-115 AC is not working,Hostel,Medium,Hostel Office
+Computer in Sports Complex is not booting up,Hardware,Low,IT
+Washroom in hostel Main Block needs urgent repair,Hostel,Low,Hostel Office
+Cleanliness issue in Seminar Hall,Administration,Low,Admin Office
+Bank transaction failed but amount deducted for course registration,Finance,Medium,Accounts
+Mess food quality complaint for Reading Room,Hostel,Low,Hostel Office
+Unable to upload thesis document on the student portal,Software,High,Development
+Scholarship amount not credited for January,Finance,High,Accounts
+Fee already paid but portal shows fee challan pending,Finance,High,Accounts
+Cleanliness issue in Sports Complex,Administration,Low,Admin Office
+Washroom in hostel Seminar Hall needs urgent repair,Hostel,High,Hostel Office
+Leave request not approved since March,HR,Medium,HR
+Computer in Cafeteria is not booting up,Hardware,Medium,IT
+Incorrect GPA shown for semester 5th,Academic,High,Academic Office
+Attendance shortage error for transcript course,Academic,Medium,Academic Office
+Unable to connect to the campus WiFi from Auditorium,Network,Low,IT
+Portal is showing incorrect internship report details,Software,Medium,Development
+Leave request not approved since May,HR,High,HR
+Cleanliness issue in Main Block,Administration,Medium,Admin Office
+ID card not issued after May,Administration,Low,Admin Office
+Salary not received for the month of July,HR,High,HR
+Hostel room D-115 AC is not working,Hostel,Low,Hostel Office
+Incorrect GPA shown for semester 7th,Academic,High,Academic Office
+Water is not available in hostel Cafeteria,Hostel,Low,Hostel Office
+Noise complaint from Lab 1 during exams,Administration,Medium,Admin Office
+Printer in Computer Lab is not printing,Hardware,Low,IT
+Mess food quality complaint for Admin Block,Hostel,Low,Hostel Office
+Login page of the portal is not loading,Software,Medium,Development
+Keyboard in Girls Hostel lab is broken,Hardware,Medium,IT
+Washroom in hostel Cafeteria needs urgent repair,Hostel,Medium,Hostel Office
+Scholarship amount not credited for January,Finance,High,Accounts
+Incorrect GPA shown for semester 5th,Academic,High,Academic Office
+Portal shows error 500 when submitting attendance sheet,Software,Medium,Development
+Fee voucher is showing incorrect amount,Finance,Medium,Accounts
+Salary not received for the month of April,HR,High,HR
+Mess food quality complaint for Lab 1,Hostel,Medium,Hostel Office
+Mess food quality complaint for Auditorium,Hostel,Medium,Hostel Office
+Noise complaint from Admin Block during exams,Administration,Low,Admin Office
+Incorrect GPA shown for semester 5th,Academic,Medium,Academic Office
+ID card not issued after January,Administration,Low,Admin Office
+Noise complaint from Reading Room during exams,Administration,Low,Admin Office
+Network is extremely slow in Main Block,Network,Medium,IT
+Printer in Lab 1 is not printing,Hardware,Low,IT
+Fee already paid but portal shows assignment pending,Finance,High,Accounts
+Portal is showing incorrect thesis document details,Software,High,Development
+Water is not available in hostel Library,Hostel,Low,Hostel Office
+Hostel room A-115 AC is not working,Hostel,Medium,Hostel Office
+WiFi signal is very weak near Computer Lab,Network,Medium,IT
+No response from admin office regarding course registration,Administration,Low,Admin Office
+Scanner in Boys Hostel is out of order,Hardware,Low,IT
+Washroom in hostel Computer Lab needs urgent repair,Hostel,Medium,Hostel Office
+Student portal is down and I cannot login,Software,Medium,Development
+LAN cable in Computer Lab is not working,Network,Medium,IT
+Hostel room B-101 AC is not working,Hostel,Medium,Hostel Office
+Monitor in Cafeteria has a black screen,Hardware,Low,IT
+Bank transaction failed but amount deducted for result card,Finance,High,Accounts
+ID card not issued after May,Administration,Low,Admin Office
+Monitor in Sports Complex has a black screen,Hardware,Low,IT
+Noise complaint from Computer Lab during exams,Administration,Low,Admin Office
+Washroom in hostel Admin Block needs urgent repair,Hostel,Medium,Hostel Office
+Result of profile picture not uploaded on portal,Academic,High,Academic Office
+Salary not received for the month of March,HR,High,HR
+Unable to connect to the campus WiFi from Girls Hostel,Network,Medium,IT
+Parking issue near Computer Lab,Administration,Low,Admin Office
+WiFi is not working in Lab 1,Network,Medium,IT
+Noise complaint from Main Block during exams,Administration,Low,Admin Office
+Washroom in hostel Lab 2 needs urgent repair,Hostel,Low,Hostel Office
+Login page of the portal is not loading,Software,Medium,Development
+Course registration issue for attendance sheet,Academic,High,Academic Office
+Mess food quality complaint for Sports Complex,Hostel,Low,Hostel Office
+Login page of the portal is not loading,Software,High,Development
+Unable to connect to the campus WiFi from Lab 2,Network,Medium,IT
+Internet connection keeps disconnecting in Main Block,Network,Low,IT
+Keyboard in Seminar Hall lab is broken,Hardware,Low,IT
+Printer in Boys Hostel is not printing,Hardware,Low,IT
+Noise complaint from Lab 2 during exams,Administration,Medium,Admin Office
+Appointment letter not issued yet,HR,Medium,HR
+Salary not received for the month of February,HR,High,HR
+Portal shows error 500 when submitting profile picture,Software,Medium,Development
+Appointment letter not issued yet,HR,High,HR
+Exam datesheet clash between profile picture and Requirement Engineering,Academic,High,Academic Office
+Cleanliness issue in Main Block,Administration,Low,Admin Office
+Incorrect deduction shown in August salary slip,HR,High,HR
+Result of course registration not uploaded on portal,Academic,Medium,Academic Office
+Unable to connect to the campus WiFi from Admin Block,Network,Low,IT
+Printer in Library is not printing,Hardware,Medium,IT
+Noise complaint from Cafeteria during exams,Administration,Low,Admin Office
+Course registration issue for result card,Academic,High,Academic Office
+Transcript request pending since December,Academic,High,Academic Office
+Incorrect GPA shown for semester 3rd,Academic,High,Academic Office
+Portal shows error 500 when submitting internship report,Software,High,Development
+Bank transaction failed but amount deducted for transcript,Finance,High,Accounts
+WiFi is not working in Admin Block,Network,Medium,IT
+Login page of the portal is not loading,Software,Medium,Development
+Exam datesheet clash between internship report and Data Structures,Academic,Medium,Academic Office
+Attendance shortage error for course registration course,Academic,High,Academic Office
+No response from admin office regarding attendance sheet,Administration,Low,Admin Office
+Mess food quality complaint for Lab 3,Hostel,High,Hostel Office
+Hostel WiFi not working in room B-113,Hostel,Medium,Hostel Office
+Login page of the portal is not loading,Software,High,Development
+Water is not available in hostel Lab 3,Hostel,Medium,Hostel Office
+HR is not responding to my resignation email,HR,Medium,HR
+Incorrect deduction shown in October salary slip,HR,High,HR
+Appointment letter not issued yet,HR,High,HR
+Network is extremely slow in Lab 2,Network,High,IT
+Noise complaint from Sports Complex during exams,Administration,Medium,Admin Office
+Monitor in Library has a black screen,Hardware,Low,IT
+Leave request not approved since February,HR,High,HR
+Salary not received for the month of October,HR,High,HR
+Fee already paid but portal shows profile picture pending,Finance,High,Accounts
+Noise complaint from Girls Hostel during exams,Administration,Low,Admin Office
+ID card not issued after March,Administration,Medium,Admin Office
+Bank transaction failed but amount deducted for internship report,Finance,High,Accounts
+Noise complaint from Main Block during exams,Administration,Medium,Admin Office
+Electricity issue in hostel room A-116,Hostel,Medium,Hostel Office
+Refund request for profile picture not processed,Finance,Medium,Accounts
+Unable to connect to the campus WiFi from Computer Lab,Network,High,IT
+Parking issue near Lab 2,Administration,Low,Admin Office
+Provident fund details are missing for August,HR,High,HR
+Incorrect GPA shown for semester 7th,Academic,High,Academic Office
+Scholarship amount not credited for January,Finance,High,Accounts
+Duplicate fee charged for attendance sheet,Finance,High,Accounts
+Computer in Girls Hostel is not booting up,Hardware,Low,IT
+Cleanliness issue in Cafeteria,Administration,Low,Admin Office
+Internet connection keeps disconnecting in Seminar Hall,Network,Medium,IT
+Fee already paid but portal shows fee challan pending,Finance,High,Accounts
+Leave request not approved since April,HR,Medium,HR
+WiFi signal is very weak near Computer Lab,Network,Low,IT
+Projector in Lab 1 is not turning on,Hardware,Low,IT
+Transcript request pending since July,Academic,High,Academic Office
+Mobile app crashes when I open course registration section,Software,High,Development
+Exam datesheet clash between fee challan and Networks,Academic,High,Academic Office
+Exam datesheet clash between profile picture and Data Structures,Academic,High,Academic Office
+Unable to connect to the campus WiFi from Cafeteria,Network,Low,IT
+Leave request not approved since October,HR,High,HR
+Mobile app crashes when I open fee challan section,Software,High,Development
+Hostel WiFi not working in room B-103,Hostel,Medium,Hostel Office
+Noise complaint from Lab 2 during exams,Administration,Low,Admin Office
+WiFi signal is very weak near Seminar Hall,Network,Medium,IT
+Salary not received for the month of October,HR,High,HR
+Portal shows error 500 when submitting internship report,Software,High,Development
+Provident fund details are missing for December,HR,High,HR
+Computer in Admin Block is not booting up,Hardware,Low,IT
+Course registration issue for transcript,Academic,Medium,Academic Office
+Computer in Boys Hostel is not booting up,Hardware,Medium,IT
+Fee already paid but portal shows profile picture pending,Finance,High,Accounts
+Water is not available in hostel Auditorium,Hostel,Low,Hostel Office
+Salary not received for the month of April,HR,Medium,HR
+Computer in Reading Room is not booting up,Hardware,Low,IT
+Hostel room D-109 AC is not working,Hostel,High,Hostel Office
+Keyboard in Lab 2 lab is broken,Hardware,Low,IT
+Monitor in Computer Lab has a black screen,Hardware,Medium,IT
+Mobile app crashes when I open leave application section,Software,Medium,Development
+Transcript request pending since December,Academic,High,Academic Office
+Course registration issue for attendance sheet,Academic,High,Academic Office
+Portal shows error 500 when submitting transcript,Software,High,Development
+Fee voucher is showing incorrect amount,Finance,Medium,Accounts
+Cleanliness issue in Library,Administration,Low,Admin Office
+Mobile app crashes when I open thesis document section,Software,High,Development
+Printer in Girls Hostel is not printing,Hardware,Medium,IT
+Appointment letter not issued yet,HR,High,HR
+Attendance shortage error for transcript course,Academic,High,Academic Office
+Security guard misbehavior reported near Seminar Hall,Administration,Medium,Admin Office
+Scanner in Boys Hostel is out of order,Hardware,Low,IT
+Incorrect deduction shown in June salary slip,HR,High,HR
+No response from admin office regarding leave application,Administration,Low,Admin Office
+Monitor in Lab 1 has a black screen,Hardware,Low,IT
+Fee voucher is showing incorrect amount,Finance,High,Accounts
+Parking issue near Library,Administration,Low,Admin Office
+Printer in Computer Lab is not printing,Hardware,Low,IT
+No response from admin office regarding thesis document,Administration,Low,Admin Office
+Refund request for internship report not processed,Finance,High,Accounts
+Appointment letter not issued yet,HR,Medium,HR
+ID card not issued after March,Administration,Low,Admin Office
+Duplicate fee charged for result card,Finance,High,Accounts
+HR is not responding to my resignation email,HR,High,HR
+HR is not responding to my resignation email,HR,Medium,HR
+Network is extremely slow in Cafeteria,Network,Low,IT
+Incorrect deduction shown in May salary slip,HR,Medium,HR
+Mobile app crashes when I open attendance sheet section,Software,High,Development
+Unable to upload fee challan on the student portal,Software,High,Development
+Fee voucher is showing incorrect amount,Finance,High,Accounts
+Bank transaction failed but amount deducted for course registration,Finance,High,Accounts
+Keyboard in Admin Block lab is broken,Hardware,Medium,IT
+Duplicate fee charged for leave application,Finance,High,Accounts
+Keyboard in Auditorium lab is broken,Hardware,Low,IT
+Provident fund details are missing for August,HR,High,HR
+Exam datesheet clash between internship report and Data Structures,Academic,High,Academic Office
+Parking issue near Main Block,Administration,Medium,Admin Office
+Projector in Seminar Hall is not turning on,Hardware,Low,IT
+Refund request for profile picture not processed,Finance,Medium,Accounts
+Hostel room A-109 AC is not working,Hostel,Medium,Hostel Office
+Exam datesheet clash between leave application and Data Structures,Academic,High,Academic Office
+Hostel WiFi not working in room C-113,Hostel,Medium,Hostel Office
+Security guard misbehavior reported near Lab 3,Administration,Medium,Admin Office
+Bank transaction failed but amount deducted for attendance sheet,Finance,High,Accounts
+Login page of the portal is not loading,Software,Medium,Development
+Security guard misbehavior reported near Lab 3,Administration,Low,Admin Office
+Incorrect deduction shown in April salary slip,HR,Medium,HR
+WiFi signal is very weak near Auditorium,Network,Low,IT
+Unable to connect to the campus WiFi from Lab 3,Network,Medium,IT
+Scanner in Seminar Hall is out of order,Hardware,Low,IT
+Fee already paid but portal shows transcript pending,Finance,High,Accounts
+Leave request not approved since September,HR,Medium,HR
+Refund request for thesis document not processed,Finance,High,Accounts
+Fee already paid but portal shows leave application pending,Finance,Medium,Accounts
+Appointment letter not issued yet,HR,Medium,HR
+HR is not responding to my resignation email,HR,Medium,HR
+Security guard misbehavior reported near Reading Room,Administration,Low,Admin Office
+Fee voucher is showing incorrect amount,Finance,Medium,Accounts
+Fee already paid but portal shows course registration pending,Finance,High,Accounts
+Water is not available in hostel Lab 3,Hostel,High,Hostel Office
+LAN cable in Main Block is not working,Network,Medium,IT
+Incorrect deduction shown in March salary slip,HR,High,HR
+Internet connection keeps disconnecting in Reading Room,Network,Low,IT
+Exam datesheet clash between profile picture and Requirement Engineering,Academic,High,Academic Office
+Portal is showing incorrect leave application details,Software,Medium,Development
+Salary not received for the month of August,HR,High,HR
+Printer in Boys Hostel is not printing,Hardware,Low,IT
+Computer in Reading Room is not booting up,Hardware,Medium,IT
+Scanner in Girls Hostel is out of order,Hardware,Medium,IT
+HR is not responding to my resignation email,HR,Medium,HR
+Attendance shortage error for leave application course,Academic,Medium,Academic Office
+Scanner in Auditorium is out of order,Hardware,Medium,IT
+Incorrect deduction shown in January salary slip,HR,High,HR
+Scholarship amount not credited for April,Finance,High,Accounts
+Fee voucher is showing incorrect amount,Finance,High,Accounts
+Course registration issue for fee challan,Academic,High,Academic Office
+Bank transaction failed but amount deducted for leave application,Finance,High,Accounts
+Incorrect GPA shown for semester 3rd,Academic,High,Academic Office
+Security guard misbehavior reported near Auditorium,Administration,Medium,Admin Office
+Duplicate fee charged for transcript,Finance,Medium,Accounts
+Exam datesheet clash between leave application and Operating Systems,Academic,High,Academic Office
+Portal shows error 500 when submitting internship report,Software,Medium,Development
+Keyboard in Computer Lab lab is broken,Hardware,Low,IT
+Washroom in hostel Lab 2 needs urgent repair,Hostel,High,Hostel Office
+Scanner in Lab 3 is out of order,Hardware,Low,IT
+Mobile app crashes when I open assignment section,Software,High,Development
+Hostel WiFi not working in room C-107,Hostel,High,Hostel Office
+Transcript request pending since August,Academic,High,Academic Office
+Incorrect deduction shown in September salary slip,HR,High,HR
+Cleanliness issue in Lab 2,Administration,Low,Admin Office
+Scholarship amount not credited for February,Finance,High,Accounts
+Projector in Admin Block is not turning on,Hardware,Low,IT
+Cleanliness issue in Boys Hostel,Administration,Medium,Admin Office
+WiFi signal is very weak near Seminar Hall,Network,Medium,IT
+Unable to upload fee challan on the student portal,Software,Medium,Development
+Cleanliness issue in Reading Room,Administration,Low,Admin Office
+Washroom in hostel Boys Hostel needs urgent repair,Hostel,Medium,Hostel Office
+Monitor in Admin Block has a black screen,Hardware,Low,IT
+Transcript request pending since June,Academic,High,Academic Office
+Washroom in hostel Computer Lab needs urgent repair,Hostel,Medium,Hostel Office
+Salary not received for the month of February,HR,Medium,HR
+Portal is showing incorrect course registration details,Software,Medium,Development
+Provident fund details are missing for April,HR,High,HR
+Leave request not approved since July,HR,Medium,HR
+Cleanliness issue in Main Block,Administration,Medium,Admin Office
+Appointment letter not issued yet,HR,High,HR
+Unable to upload leave application on the student portal,Software,Medium,Development
+Unable to upload assignment on the student portal,Software,Medium,Development
+Course registration issue for course registration,Academic,Medium,Academic Office
+Parking issue near Auditorium,Administration,Low,Admin Office
+Exam datesheet clash between fee challan and Requirement Engineering,Academic,Medium,Academic Office
+No response from admin office regarding profile picture,Administration,Low,Admin Office
+Parking issue near Lab 1,Administration,Low,Admin Office
+Hostel room C-114 AC is not working,Hostel,Medium,Hostel Office
+Parking issue near Sports Complex,Administration,Low,Admin Office
+Portal is showing incorrect leave application details,Software,High,Development
+Leave request not approved since July,HR,High,HR
+Printer in Admin Block is not printing,Hardware,Low,IT
+Unable to connect to the campus WiFi from Sports Complex,Network,Low,IT
+Portal shows error 500 when submitting internship report,Software,Medium,Development
+Scholarship amount not credited for August,Finance,Medium,Accounts
+Network is extremely slow in Lab 3,Network,High,IT
+Portal shows error 500 when submitting fee challan,Software,High,Development
+Mess food quality complaint for Library,Hostel,Medium,Hostel Office
+Student portal is down and I cannot login,Software,High,Development
+Incorrect deduction shown in September salary slip,HR,High,HR
+Keyboard in Girls Hostel lab is broken,Hardware,Medium,IT
+Exam datesheet clash between course registration and Operating Systems,Academic,Medium,Academic Office
+Salary not received for the month of December,HR,High,HR
+Keyboard in Seminar Hall lab is broken,Hardware,Low,IT
+Noise complaint from Girls Hostel during exams,Administration,Low,Admin Office
+Internet connection keeps disconnecting in Lab 1,Network,Medium,IT
+Cleanliness issue in Lab 3,Administration,Low,Admin Office
+Duplicate fee charged for fee challan,Finance,High,Accounts
+LAN cable in Main Block is not working,Network,Medium,IT
+Water is not available in hostel Lab 1,Hostel,Low,Hostel Office
+Washroom in hostel Library needs urgent repair,Hostel,Low,Hostel Office
+Scholarship amount not credited for October,Finance,Medium,Accounts
+LAN cable in Lab 1 is not working,Network,Medium,IT
+ID card not issued after January,Administration,Low,Admin Office
+Electricity issue in hostel room A-109,Hostel,Medium,Hostel Office
+Parking issue near Auditorium,Administration,Medium,Admin Office
+Keyboard in Admin Block lab is broken,Hardware,Low,IT
+ID card not issued after July,Administration,Medium,Admin Office
+Incorrect deduction shown in April salary slip,HR,High,HR
+Login page of the portal is not loading,Software,High,Development
+Monitor in Girls Hostel has a black screen,Hardware,Low,IT
+Salary not received for the month of October,HR,High,HR
+WiFi signal is very weak near Lab 2,Network,Medium,IT
+Unable to connect to the campus WiFi from Auditorium,Network,Medium,IT
+Unable to upload transcript on the student portal,Software,Medium,Development
+Attendance shortage error for attendance sheet course,Academic,High,Academic Office
+Incorrect GPA shown for semester 5th,Academic,Medium,Academic Office
+Fee already paid but portal shows transcript pending,Finance,Medium,Accounts
+Course registration issue for profile picture,Academic,High,Academic Office
+LAN cable in Boys Hostel is not working,Network,Low,IT
+Login page of the portal is not loading,Software,High,Development
+WiFi is not working in Library,Network,Medium,IT
+No response from admin office regarding assignment,Administration,Low,Admin Office
+Unable to upload assignment on the student portal,Software,Medium,Development
+Appointment letter not issued yet,HR,High,HR
+Parking issue near Cafeteria,Administration,Low,Admin Office
+Scholarship amount not credited for March,Finance,High,Accounts
+Fee voucher is showing incorrect amount,Finance,High,Accounts
+Salary not received for the month of February,HR,High,HR
+Attendance shortage error for internship report course,Academic,High,Academic Office
+Unable to connect to the campus WiFi from Lab 3,Network,High,IT
+Fee voucher is showing incorrect amount,Finance,Medium,Accounts
+Unable to upload leave application on the student portal,Software,Medium,Development
+Portal is showing incorrect fee challan details,Software,High,Development
+Monitor in Lab 1 has a black screen,Hardware,Medium,IT
+Scholarship amount not credited for July,Finance,High,Accounts
+WiFi is not working in Reading Room,Network,Medium,IT
+Leave request not approved since April,HR,High,HR
+Printer in Main Block is not printing,Hardware,Low,IT
+Monitor in Seminar Hall has a black screen,Hardware,Medium,IT
+Washroom in hostel Main Block needs urgent repair,Hostel,High,Hostel Office
+WiFi is not working in Admin Block,Network,Medium,IT
+Washroom in hostel Sports Complex needs urgent repair,Hostel,High,Hostel Office
+Transcript request pending since March,Academic,High,Academic Office
+Login page of the portal is not loading,Software,Medium,Development
+Electricity issue in hostel room B-115,Hostel,Medium,Hostel Office
+ID card not issued after December,Administration,Low,Admin Office
+Attendance shortage error for result card course,Academic,High,Academic Office
+Login page of the portal is not loading,Software,Medium,Development
+Incorrect GPA shown for semester 6th,Academic,Medium,Academic Office
+Salary not received for the month of February,HR,High,HR
+Incorrect deduction shown in June salary slip,HR,High,HR
+Transcript request pending since May,Academic,High,Academic Office
+Printer in Lab 2 is not printing,Hardware,Low,IT
+Security guard misbehavior reported near Admin Block,Administration,Low,Admin Office
+Portal is showing incorrect result card details,Software,High,Development
+Login page of the portal is not loading,Software,High,Development
+Unable to upload profile picture on the student portal,Software,High,Development
+Fee already paid but portal shows profile picture pending,Finance,Medium,Accounts
+Incorrect deduction shown in August salary slip,HR,High,HR
+Noise complaint from Reading Room during exams,Administration,Medium,Admin Office
+Hostel room A-101 AC is not working,Hostel,Medium,Hostel Office
+Hostel WiFi not working in room A-109,Hostel,Medium,Hostel Office
+LAN cable in Main Block is not working,Network,Medium,IT
+Student portal is down and I cannot login,Software,Medium,Development
+Unable to connect to the campus WiFi from Lab 2,Network,Medium,IT
+Network is extremely slow in Admin Block,Network,Medium,IT
+Exam datesheet clash between assignment and Requirement Engineering,Academic,Medium,Academic Office
+No response from admin office regarding profile picture,Administration,Medium,Admin Office
+Incorrect GPA shown for semester 5th,Academic,High,Academic Office
+Student portal is down and I cannot login,Software,High,Development
+Provident fund details are missing for June,HR,High,HR
+Mess food quality complaint for Lab 1,Hostel,Low,Hostel Office
+Course registration issue for thesis document,Academic,High,Academic Office
+WiFi is not working in Main Block,Network,High,IT
+Login page of the portal is not loading,Software,Medium,Development
+Unable to connect to the campus WiFi from Lab 2,Network,Medium,IT
+Bank transaction failed but amount deducted for assignment,Finance,High,Accounts
+Projector in Lab 1 is not turning on,Hardware,Medium,IT
+Salary not received for the month of September,HR,High,HR
+Login page of the portal is not loading,Software,High,Development
+Fee already paid but portal shows transcript pending,Finance,High,Accounts
+Salary not received for the month of December,HR,High,HR
+Student portal is down and I cannot login,Software,High,Development
+Incorrect deduction shown in January salary slip,HR,High,HR
+Attendance shortage error for leave application course,Academic,Medium,Academic Office
+Printer in Computer Lab is not printing,Hardware,Medium,IT
+Washroom in hostel Lab 1 needs urgent repair,Hostel,Medium,Hostel Office
+Exam datesheet clash between transcript and Database Systems,Academic,Medium,Academic Office
+Printer in Girls Hostel is not printing,Hardware,Low,IT
+Mobile app crashes when I open internship report section,Software,High,Development
+Course registration issue for leave application,Academic,High,Academic Office
+Transcript request pending since March,Academic,High,Academic Office
+Portal is showing incorrect attendance sheet details,Software,Medium,Development
+Printer in Cafeteria is not printing,Hardware,Low,IT
+Unable to upload result card on the student portal,Software,Medium,Development
+Scholarship amount not credited for June,Finance,Medium,Accounts
+Bank transaction failed but amount deducted for course registration,Finance,Medium,Accounts
+Hostel WiFi not working in room D-111,Hostel,High,Hostel Office
+Mobile app crashes when I open transcript section,Software,High,Development
+Keyboard in Lab 2 lab is broken,Hardware,Low,IT
+Incorrect deduction shown in February salary slip,HR,Medium,HR
+Attendance shortage error for transcript course,Academic,High,Academic Office
+Exam datesheet clash between thesis document and Database Systems,Academic,Medium,Academic Office
+HR is not responding to my resignation email,HR,High,HR
+Result of leave application not uploaded on portal,Academic,High,Academic Office
+Attendance shortage error for transcript course,Academic,High,Academic Office
+Login page of the portal is not loading,Software,High,Development
+Hostel WiFi not working in room C-106,Hostel,Low,Hostel Office
+Hostel room A-117 AC is not working,Hostel,Low,Hostel Office
+Cleanliness issue in Boys Hostel,Administration,Low,Admin Office
+LAN cable in Admin Block is not working,Network,Medium,IT
+Cleanliness issue in Lab 1,Administration,Low,Admin Office
+WiFi signal is very weak near Library,Network,High,IT
+Mess food quality complaint for Admin Block,Hostel,High,Hostel Office
+Unable to upload attendance sheet on the student portal,Software,High,Development
+Mess food quality complaint for Sports Complex,Hostel,Medium,Hostel Office
+Provident fund details are missing for December,HR,High,HR
+Unable to connect to the campus WiFi from Main Block,Network,Medium,IT
+Keyboard in Girls Hostel lab is broken,Hardware,Low,IT
+WiFi is not working in Auditorium,Network,High,IT
+Parking issue near Boys Hostel,Administration,Medium,Admin Office
+Student portal is down and I cannot login,Software,High,Development
+Unable to connect to the campus WiFi from Seminar Hall,Network,Low,IT
+ID card not issued after December,Administration,Medium,Admin Office
+Electricity issue in hostel room C-113,Hostel,Medium,Hostel Office
+Electricity issue in hostel room D-118,Hostel,Medium,Hostel Office
+Scanner in Lab 3 is out of order,Hardware,Medium,IT
+Network is extremely slow in Library,Network,Medium,IT
+Washroom in hostel Auditorium needs urgent repair,Hostel,Medium,Hostel Office
+Fee already paid but portal shows assignment pending,Finance,Medium,Accounts
+No response from admin office regarding internship report,Administration,Low,Admin Office
+Attendance shortage error for thesis document course,Academic,Medium,Academic Office
+Transcript request pending since December,Academic,Medium,Academic Office
+Student portal is down and I cannot login,Software,High,Development
+Incorrect GPA shown for semester 3rd,Academic,Medium,Academic Office
+Unable to connect to the campus WiFi from Boys Hostel,Network,High,IT
+Student portal is down and I cannot login,Software,Medium,Development
+Bank transaction failed but amount deducted for assignment,Finance,Medium,Accounts
+ID card not issued after August,Administration,Low,Admin Office
+Refund request for internship report not processed,Finance,High,Accounts
+Mess food quality complaint for Admin Block,Hostel,High,Hostel Office
+Salary not received for the month of January,HR,High,HR
+Fee already paid but portal shows transcript pending,Finance,Medium,Accounts
+ID card not issued after July,Administration,Medium,Admin Office
+Electricity issue in hostel room C-103,Hostel,Low,Hostel Office
+Login page of the portal is not loading,Software,Medium,Development
+Mobile app crashes when I open transcript section,Software,High,Development
+Incorrect deduction shown in October salary slip,HR,Medium,HR
+WiFi signal is very weak near Computer Lab,Network,Low,IT
+Exam datesheet clash between profile picture and Operating Systems,Academic,High,Academic Office
+Monitor in Library has a black screen,Hardware,Low,IT
+Network is extremely slow in Lab 3,Network,Medium,IT
+Projector in Boys Hostel is not turning on,Hardware,Low,IT
+Network is extremely slow in Boys Hostel,Network,Medium,IT
+LAN cable in Girls Hostel is not working,Network,Medium,IT
+Provident fund details are missing for January,HR,High,HR
+Duplicate fee charged for assignment,Finance,Medium,Accounts
+Bank transaction failed but amount deducted for course registration,Finance,High,Accounts
+Printer in Seminar Hall is not printing,Hardware,Medium,IT
+No response from admin office regarding assignment,Administration,Low,Admin Office
+Incorrect GPA shown for semester 8th,Academic,High,Academic Office
+Network is extremely slow in Boys Hostel,Network,Medium,IT
+Incorrect deduction shown in April salary slip,HR,High,HR
+Refund request for attendance sheet not processed,Finance,High,Accounts
+Monitor in Cafeteria has a black screen,Hardware,Medium,IT
+Mess food quality complaint for Seminar Hall,Hostel,Medium,Hostel Office
+Exam datesheet clash between internship report and Data Structures,Academic,Medium,Academic Office
+Internet connection keeps disconnecting in Cafeteria,Network,Low,IT
+No response from admin office regarding leave application,Administration,Medium,Admin Office
+Unable to connect to the campus WiFi from Lab 1,Network,High,IT
+Student portal is down and I cannot login,Software,Medium,Development
+Student portal is down and I cannot login,Software,Medium,Development
+Course registration issue for profile picture,Academic,High,Academic Office
+Leave request not approved since February,HR,High,HR
+Incorrect GPA shown for semester 3rd,Academic,High,Academic Office
+WiFi is not working in Seminar Hall,Network,Low,IT
+Bank transaction failed but amount deducted for fee challan,Finance,High,Accounts
+Transcript request pending since July,Academic,Medium,Academic Office
+Course registration issue for internship report,Academic,Medium,Academic Office
+Electricity issue in hostel room C-101,Hostel,Medium,Hostel Office
+Network is extremely slow in Main Block,Network,Medium,IT
+Security guard misbehavior reported near Lab 3,Administration,Medium,Admin Office
+Parking issue near Lab 2,Administration,Low,Admin Office
+Monitor in Library has a black screen,Hardware,Low,IT
+Login page of the portal is not loading,Software,High,Development
+Security guard misbehavior reported near Sports Complex,Administration,Low,Admin Office
+Attendance shortage error for fee challan course,Academic,High,Academic Office
+LAN cable in Lab 2 is not working,Network,Medium,IT
+Fee voucher is showing incorrect amount,Finance,High,Accounts
+Login page of the portal is not loading,Software,Medium,Development
+Login page of the portal is not loading,Software,Medium,Development
+Parking issue near Lab 1,Administration,Low,Admin Office
+Computer in Admin Block is not booting up,Hardware,Low,IT
+Result of attendance sheet not uploaded on portal,Academic,Medium,Academic Office
+Incorrect GPA shown for semester 8th,Academic,High,Academic Office
+Leave request not approved since September,HR,High,HR
+LAN cable in Boys Hostel is not working,Network,High,IT
+Projector in Seminar Hall is not turning on,Hardware,Low,IT
+Fee voucher is showing incorrect amount,Finance,High,Accounts
+Incorrect deduction shown in January salary slip,HR,High,HR
+Internet connection keeps disconnecting in Library,Network,High,IT
+Mess food quality complaint for Lab 3,Hostel,Medium,Hostel Office
+Hostel WiFi not working in room C-114,Hostel,Medium,Hostel Office
+Internet connection keeps disconnecting in Boys Hostel,Network,Medium,IT
+HR is not responding to my resignation email,HR,High,HR
+Projector in Main Block is not turning on,Hardware,Low,IT
+Water is not available in hostel Admin Block,Hostel,Medium,Hostel Office
+Keyboard in Auditorium lab is broken,Hardware,Low,IT
+Salary not received for the month of June,HR,Medium,HR
+Fee voucher is showing incorrect amount,Finance,Medium,Accounts
+Fee already paid but portal shows profile picture pending,Finance,High,Accounts
+Security guard misbehavior reported near Computer Lab,Administration,Medium,Admin Office
+Bank transaction failed but amount deducted for leave application,Finance,High,Accounts
+Incorrect GPA shown for semester 5th,Academic,High,Academic Office
+Electricity issue in hostel room B-114,Hostel,Low,Hostel Office
+Incorrect deduction shown in August salary slip,HR,High,HR
+No response from admin office regarding attendance sheet,Administration,Medium,Admin Office
+Portal shows error 500 when submitting result card,Software,Medium,Development
+No response from admin office regarding transcript,Administration,Low,Admin Office
+Noise complaint from Admin Block during exams,Administration,Medium,Admin Office
+Transcript request pending since September,Academic,Medium,Academic Office
+Course registration issue for transcript,Academic,High,Academic Office
+Cleanliness issue in Reading Room,Administration,Low,Admin Office
+No response from admin office regarding leave application,Administration,Medium,Admin Office
+Appointment letter not issued yet,HR,High,HR
+Leave request not approved since November,HR,High,HR
+Bank transaction failed but amount deducted for course registration,Finance,High,Accounts
+Scholarship amount not credited for October,Finance,Medium,Accounts
+Exam datesheet clash between leave application and Requirement Engineering,Academic,High,Academic Office
+Transcript request pending since December,Academic,Medium,Academic Office
+Fee voucher is showing incorrect amount,Finance,High,Accounts
+WiFi signal is very weak near Seminar Hall,Network,Low,IT
+Scholarship amount not credited for September,Finance,Medium,Accounts
+Incorrect deduction shown in February salary slip,HR,High,HR
+Scanner in Boys Hostel is out of order,Hardware,Low,IT
+Hostel room B-117 AC is not working,Hostel,Medium,Hostel Office
+Student portal is down and I cannot login,Software,High,Development
+Projector in Reading Room is not turning on,Hardware,Low,IT
+Provident fund details are missing for December,HR,High,HR
+Water is not available in hostel Lab 3,Hostel,Low,Hostel Office
+Network is extremely slow in Main Block,Network,Low,IT
+WiFi signal is very weak near Lab 2,Network,Medium,IT
+Electricity issue in hostel room C-118,Hostel,Medium,Hostel Office
+Water is not available in hostel Computer Lab,Hostel,High,Hostel Office
+Mobile app crashes when I open attendance sheet section,Software,High,Development
+Bank transaction failed but amount deducted for result card,Finance,High,Accounts
+WiFi signal is very weak near Auditorium,Network,Medium,IT
+Noise complaint from Admin Block during exams,Administration,Low,Admin Office
+Parking issue near Reading Room,Administration,Low,Admin Office
+Keyboard in Auditorium lab is broken,Hardware,Medium,IT
+Exam datesheet clash between assignment and Data Structures,Academic,High,Academic Office
+Bank transaction failed but amount deducted for assignment,Finance,High,Accounts
+LAN cable in Sports Complex is not working,Network,High,IT
+Internet connection keeps disconnecting in Lab 3,Network,Medium,IT
+WiFi is not working in Reading Room,Network,Medium,IT
+LAN cable in Cafeteria is not working,Network,Low,IT
+Scanner in Girls Hostel is out of order,Hardware,Low,IT
+Transcript request pending since January,Academic,Medium,Academic Office
+HR is not responding to my resignation email,HR,Medium,HR
+Network is extremely slow in Computer Lab,Network,Medium,IT
+Hostel room C-114 AC is not working,Hostel,Medium,Hostel Office
+Hostel WiFi not working in room B-104,Hostel,High,Hostel Office
+Mobile app crashes when I open course registration section,Software,Medium,Development
+Appointment letter not issued yet,HR,Medium,HR
+Cleanliness issue in Lab 3,Administration,Medium,Admin Office
+Fee voucher is showing incorrect amount,Finance,Medium,Accounts
+Login page of the portal is not loading,Software,High,Development
+WiFi is not working in Sports Complex,Network,High,IT
+Parking issue near Reading Room,Administration,Medium,Admin Office
+Washroom in hostel Sports Complex needs urgent repair,Hostel,Medium,Hostel Office
+Noise complaint from Girls Hostel during exams,Administration,Low,Admin Office
+Incorrect deduction shown in August salary slip,HR,Medium,HR
+Electricity issue in hostel room A-116,Hostel,High,Hostel Office
+Login page of the portal is not loading,Software,High,Development
+Refund request for thesis document not processed,Finance,Medium,Accounts
+Internet connection keeps disconnecting in Reading Room,Network,High,IT
+Leave request not approved since February,HR,High,HR
+Login page of the portal is not loading,Software,Medium,Development
+Keyboard in Girls Hostel lab is broken,Hardware,Low,IT
+Incorrect GPA shown for semester 3rd,Academic,Medium,Academic Office
+Scanner in Girls Hostel is out of order,Hardware,Low,IT
+LAN cable in Library is not working,Network,Low,IT
+Computer in Girls Hostel is not booting up,Hardware,Low,IT
+Provident fund details are missing for April,HR,High,HR
+Incorrect deduction shown in July salary slip,HR,High,HR
+WiFi is not working in Computer Lab,Network,Medium,IT
+Attendance shortage error for assignment course,Academic,High,Academic Office
+Noise complaint from Seminar Hall during exams,Administration,Low,Admin Office
+Unable to connect to the campus WiFi from Lab 3,Network,Low,IT
+Incorrect GPA shown for semester 7th,Academic,High,Academic Office
+Mobile app crashes when I open internship report section,Software,Medium,Development
+Computer in Reading Room is not booting up,Hardware,Medium,IT
+Projector in Auditorium is not turning on,Hardware,Low,IT
+ID card not issued after September,Administration,Low,Admin Office
+Attendance shortage error for attendance sheet course,Academic,Medium,Academic Office
+Electricity issue in hostel room D-110,Hostel,Medium,Hostel Office
+Hostel room C-113 AC is not working,Hostel,High,Hostel Office
+HR is not responding to my resignation email,HR,Medium,HR
+Transcript request pending since May,Academic,Medium,Academic Office
+Keyboard in Lab 2 lab is broken,Hardware,Low,IT
+Appointment letter not issued yet,HR,Medium,HR
+Washroom in hostel Lab 2 needs urgent repair,Hostel,Low,Hostel Office
+Unable to connect to the campus WiFi from Library,Network,Medium,IT
+Hostel WiFi not working in room D-113,Hostel,Low,Hostel Office
+Appointment letter not issued yet,HR,High,HR
+Scanner in Lab 2 is out of order,Hardware,Low,IT
+Printer in Main Block is not printing,Hardware,Low,IT
+Mobile app crashes when I open profile picture section,Software,High,Development
+Hostel room A-105 AC is not working,Hostel,Low,Hostel Office
+Unable to connect to the campus WiFi from Lab 2,Network,Medium,IT
+Security guard misbehavior reported near Boys Hostel,Administration,Low,Admin Office
+Unable to upload transcript on the student portal,Software,Medium,Development
+Course registration issue for attendance sheet,Academic,Medium,Academic Office
+Bank transaction failed but amount deducted for thesis document,Finance,High,Accounts
+Washroom in hostel Lab 3 needs urgent repair,Hostel,High,Hostel Office
+Parking issue near Cafeteria,Administration,Low,Admin Office
+Result of internship report not uploaded on portal,Academic,High,Academic Office
+Noise complaint from Girls Hostel during exams,Administration,Medium,Admin Office
+Leave request not approved since May,HR,Medium,HR
+Student portal is down and I cannot login,Software,High,Development
+Hostel WiFi not working in room B-108,Hostel,Low,Hostel Office
+Security guard misbehavior reported near Computer Lab,Administration,Medium,Admin Office
+Unable to connect to the campus WiFi from Library,Network,Low,IT
+Portal is showing incorrect leave application details,Software,High,Development
+Exam datesheet clash between thesis document and Database Systems,Academic,Medium,Academic Office
+Portal is showing incorrect profile picture details,Software,High,Development
+Hostel room D-112 AC is not working,Hostel,Medium,Hostel Office
+Washroom in hostel Seminar Hall needs urgent repair,Hostel,High,Hostel Office
+Unable to upload profile picture on the student portal,Software,Medium,Development
+Security guard misbehavior reported near Boys Hostel,Administration,Medium,Admin Office
+No response from admin office regarding course registration,Administration,Low,Admin Office
+Hostel room C-105 AC is not working,Hostel,Low,Hostel Office
+Mess food quality complaint for Admin Block,Hostel,Low,Hostel Office
+Unable to connect to the campus WiFi from Auditorium,Network,Medium,IT
+WiFi signal is very weak near Admin Block,Network,High,IT
+Washroom in hostel Lab 2 needs urgent repair,Hostel,Low,Hostel Office
+Internet connection keeps disconnecting in Seminar Hall,Network,High,IT
+Unable to connect to the campus WiFi from Main Block,Network,Medium,IT
+Mobile app crashes when I open transcript section,Software,Medium,Development
+Computer in Seminar Hall is not booting up,Hardware,Low,IT
+Monitor in Cafeteria has a black screen,Hardware,Medium,IT
+Exam datesheet clash between internship report and Operating Systems,Academic,High,Academic Office
+Portal is showing incorrect assignment details,Software,High,Development
+Monitor in Girls Hostel has a black screen,Hardware,Low,IT
+HR is not responding to my resignation email,HR,Medium,HR
+Mess food quality complaint for Reading Room,Hostel,Low,Hostel Office
+WiFi signal is very weak near Girls Hostel,Network,Medium,IT
