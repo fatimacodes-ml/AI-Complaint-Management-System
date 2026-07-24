@@ -18,17 +18,11 @@ import joblib
 from flask import Flask, render_template, request, redirect, url_for, session, flash, g
 from werkzeug.security import generate_password_hash, check_password_hash
 
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-
-DB_PATH = os.path.join(BASE_DIR, "app", "database.db")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DB_PATH = os.path.join(BASE_DIR, "database.db")
 MODELS_DIR = os.path.join(BASE_DIR, "machine_learning", "models")
 
-app = Flask(
-    __name__,
-    template_folder=os.path.join(BASE_DIR, "templates"),
-    static_folder=os.path.join(BASE_DIR, "static")
-)
-
+app = Flask(__name__)
 app.secret_key = "change-this-secret-key-in-production"
 
 
